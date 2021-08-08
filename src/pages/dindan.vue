@@ -12,6 +12,9 @@
         <Ddtop></Ddtop>
         <dindan></dindan>
         <Footer></Footer>
+        <div>
+          测试当前目录的正确性
+        </div>
     </div>
 </template>
 <script>
